@@ -9,7 +9,7 @@ Analyzed an e-commerce dataset to identify sales trends, top products, and regio
 - Excel
 
 ## Key Insights
-- Top 20% SKUs generate ~80% of revenue
+- Sets generate nearly 50% of total revenue
 - Maharashtra contributes the highest sales
 - Medium and Large sizes dominate demand
 
